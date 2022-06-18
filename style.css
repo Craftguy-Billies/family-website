@@ -77,7 +77,32 @@ p {
     font-size: 60px;
     color: #001431;
     text-align: center;
-	 left: 340px;
-    top: 290px;
+	 left: 0px;
+    top: 370px;
    
+}
+
+.display-6 {
+	background-color: #e39dfc;
+	border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 470px;
+	
+}
+
+.display-7 {
+	background-color: #66fa7f;
+	border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 570px;
 }
