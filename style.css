@@ -66,6 +66,8 @@ p {
     font-size: 60px;
     color: #001431;
     text-align: center;
+	left: 0px;
+    top: 370px;
    
 }
 
@@ -98,10 +100,10 @@ p {
 .display-7 {
 	background-color: #66fa7f;
 	border: thick double #00034B;
-    position: static;
+    position: absolute;
     font-family: "華康新綜藝體W9(P)";
     font-size: 60px;
     color: #001431;
     text-align: center;
 	 left: 0px;
-    top: 670px;}
+    top: 650px;}
