@@ -67,7 +67,7 @@ p {
     color: #001431;
     text-align: center;
 	left: 0px;
-    top: 370px;
+    top: 450px;
    
 }
 
@@ -80,7 +80,7 @@ p {
     color: #001431;
     text-align: center;
 	 left: 0px;
-    top: 470px;
+    top: 550px;
    
 }
 
@@ -93,7 +93,7 @@ p {
     color: #001431;
     text-align: center;
 	 left: 0px;
-    top: 570px;
+    top: 650px;
 	
 }
 
@@ -106,4 +106,10 @@ p {
     color: #001431;
     text-align: center;
 	 left: 0px;
-    top: 650px;}
+    top: 750px;}
+
+.display-8 {
+	left: 0px;
+    top: 1000px;
+	
+}
