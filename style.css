@@ -150,3 +150,16 @@ p {
     top: 1050px;
 	
 }
+
+.display-12 {
+	background-color: #FFA9AA;
+	border: thick solid #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 1150px;
+	
+}
