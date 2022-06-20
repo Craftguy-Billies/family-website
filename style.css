@@ -57,6 +57,7 @@ p {
     text-align: center;
     left: 19px;
     top: 581px;
+	cursor: pointer;
 }
 .display-4 {
 	background-color: #f7dc88;
@@ -68,6 +69,7 @@ p {
     text-align: center;
 	left: 0px;
     top: 450px;
+	cursor: pointer;
    
 }
 
@@ -81,6 +83,7 @@ p {
     text-align: center;
 	 left: 0px;
     top: 550px;
+	cursor: pointer;
    
 }
 
@@ -94,6 +97,7 @@ p {
     text-align: center;
 	 left: 0px;
     top: 650px;
+	cursor: pointer;
 	
 }
 
@@ -106,7 +110,9 @@ p {
     color: #001431;
     text-align: center;
 	 left: 0px;
-    top: 750px;}
+    top: 750px;
+cursor: pointer;
+}
 
 .display-8 {
 	left: 0px;
@@ -123,7 +129,9 @@ p {
     color: #001431;
     text-align: center;
 	 left: 0px;
-    top: 850px;}
+    top: 850px;
+cursor: pointer;
+}
 
 .display-10 {
 	background-color: #abadf7;
@@ -135,6 +143,7 @@ p {
     text-align: center;
 	 left: 0px;
     top: 950px;
+	cursor: pointer;
 	
 }
 
@@ -148,6 +157,7 @@ p {
     text-align: center;
 	 left: 0px;
     top: 1050px;
+	cursor: pointer;
 	
 }
 
@@ -161,5 +171,6 @@ p {
     text-align: center;
 	 left: 0px;
     top: 1150px;
+	cursor: pointer;
 	
 }

@@ -9,6 +9,7 @@
     background-color: #F5FF00;
     width: auto;
     border: thick solid #000000;
+	cursor: pointer;
 }
 .display-3 {
     font-family: "華康新綜藝體W9(P)";
@@ -16,6 +17,7 @@
     background-color: #00FF81;
     border: thick double #06002A;
     position: static;
+	cursor: pointer;
 }
 .display-4 {
     font-family: "華康平劇體W7(P)";
@@ -25,6 +27,7 @@
     letter-spacing: 0px;
     text-align: center;
     position: static;
+	cursor: pointer;
 }
 
 .display-5 {
