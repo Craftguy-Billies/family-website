@@ -29,6 +29,15 @@
     position: static;
 	cursor: pointer;
 }
+.display-2:active {
+	background-color: #f05e54
+}
+.display-3:active {
+	background-color: #f05e54
+}
+.display-4:active {
+	background-color: #f05e54
+}
 
 .display-5 {
     font-family: "華康新綜藝體W9(P)";
