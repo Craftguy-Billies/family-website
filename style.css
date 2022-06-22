@@ -251,7 +251,7 @@ cursor: pointer;
 	background-color: #f05e54
 }
 .display-50 {
-	float: left;
+	float: right;
 	background-color: #f7dc88;
 	border: thick solid #00034B;
     position: absolute;
@@ -260,7 +260,6 @@ cursor: pointer;
     color: #001431;
     text-align: center;
 	cursor: pointer;
-	margin-left: 5px;
    
 }
 .display-50:active {
