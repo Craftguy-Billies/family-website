@@ -48,6 +48,7 @@ p {
 }
 
 .display-3 {
+	float: right;
     background-color: #00FF57;
     border: thick double #00034B;
     position: absolute;
@@ -247,5 +248,21 @@ cursor: pointer;
 	
 }
 .display-15:active {
+	background-color: #f05e54
+}
+.display-50 {
+	float: left;
+	background-color: #f7dc88;
+	border: thick solid #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	cursor: pointer;
+	margin-left: 5px;
+   
+}
+.display-50:active {
 	background-color: #f05e54
 }
