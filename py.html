@@ -6,6 +6,9 @@
 <py-script src="main.py"></py-script>
 <div style="font-size:45px">
 <py-script>
+    import tensorflow as tf
+
+print("TensorFlow version:", tf.__version__)
 b = input("Hi?")
 a = 68
 if a == 87:
